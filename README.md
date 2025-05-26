@@ -18,5 +18,3 @@ A Java-based Hospital Management System developed using Maven. This project help
 - JDBC
 
 
-## 📁 Project Structure
-
